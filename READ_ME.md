@@ -18,7 +18,7 @@ $ source bin/activate
 
 download all files from github :
 
-$ git clone https://github.com/denya-rog/spyder
+$ git clone https://github.com/denya-rog/spyder.git
 
 Install all requirements from file requirements.txt with command in terminal:
 

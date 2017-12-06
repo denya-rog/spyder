@@ -1,6 +1,8 @@
 You sould have python, Git, pip on your compter
 https://pip.pypa.io/en/stable/installing/
+
 https://git-scm.com/book/ru/v1/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0-Git
+
 https://www.python.org/downloads/
 
 Before installing and lounching spider you shold intall virtualenv in terminal:

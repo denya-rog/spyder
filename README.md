@@ -1,2 +1,0 @@
-# spyder
-my first spyder

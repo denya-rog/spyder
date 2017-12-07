@@ -26,7 +26,7 @@ Install all requirements from file requirements.txt with command in terminal:
 
 $ pip install -r requirements.txt
 
-Go to the folder tutorial in terminal and lounch spider 
+Go to the folder sp/tutorial in terminal and lounch spider 
 
 $ scrapy crawl table
 
